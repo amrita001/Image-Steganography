@@ -11,6 +11,12 @@ User just needs to provide :
 
 The program itself creates a copy of the image, hides the data in that copy and saves the encoded image in user's choice of path with user's choice of name.
 
-:heavy_check_mark: UI is user-friendly
-:heavy_check_mark: Deals with all test cases
+The User-Interface is -
+:heavy_check_mark: interactive 
+
+:heavy_check_mark: user-friendly
+
+:heavy_check_mark: deals with all test cases
+
+:heavy_check_mark: shows pop-up dialogue boxes in case of any error
 
