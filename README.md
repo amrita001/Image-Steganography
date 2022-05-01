@@ -13,19 +13,17 @@ In LSB Technique, we hide the data in the image by modifying the rightmost bit w
 
 #### Aim of this project -
 
-:black_medium_small_square:  To provide secure communication
+  :black_medium_small_square:  To provide secure communication
 
-:black_medium_small_square:  To hide the fact that any communication is going on
-
-:black_medium_small_square:  Hiding confidential or sensitive information in an Image
+  :black_medium_small_square:  Hiding confidential or sensitive information in an Image
 
 
 #### The User-Interface is -
 
-:heavy_check_mark: interactive 
+  :heavy_check_mark: interactive 
 
-:heavy_check_mark: user-friendly
+  :heavy_check_mark: user-friendly
 
-:heavy_check_mark: deals with all test cases
+  :heavy_check_mark: deals with all test cases
 
-:heavy_check_mark: shows pop-up dialogue boxes in case of any error
+  :heavy_check_mark: shows pop-up dialogue boxes in case of any error
